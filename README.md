@@ -25,6 +25,8 @@ JarVision is a vision-language model designed from scratch with the following go
 * Paligemma for language generation
 * Vision Transformer (ViT) for image feature extraction
 
+##### [virtual env creatiion]: https://stackoverflow.com/a/57784374
+
 
 ## Acknowledgments
 
